@@ -11,7 +11,7 @@
         :alt: Supported Python versions
 
 .. image:: https://travis-ci.com/zopefoundation/zope.browsermenu.svg?branch=master
-        :target: https://travis-ci.com/zopefoundation/zope.browsermenu
+        :target: https://github.com/zopefoundation/zope.browsermenu/actions
 
 .. image:: https://coveralls.io/repos/github/zopefoundation/zope.browsermenu/badge.svg?branch=master
         :target: https://coveralls.io/github/zopefoundation/zope.browsermenu?branch=master
